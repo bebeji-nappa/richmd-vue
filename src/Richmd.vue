@@ -1,5 +1,5 @@
 <template>
-    <div v-html="compiledMarkdown"></div>
+    <div :id="id" :className="className" v-html="compiledMarkdown"></div>
 </template>
 <script>
 import { richmd } from 'richmd'
