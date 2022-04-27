@@ -1,7 +1,4 @@
 # richmd-vue
-
-
-# Richmd React
 ![NPM](https://img.shields.io/npm/l/richmd-vue)
 ![npm](https://img.shields.io/npm/v/richmd-vue)
 ![NPM](https://img.shields.io/npm/dw/richmd-vue)
