@@ -1,0 +1,7 @@
+{
+  "name": "richmd-vue",
+  "packageManager": "yarn@3.2.0",
+  "dependencies": {
+    "richmd": "^2.2.7"
+  }
+}
