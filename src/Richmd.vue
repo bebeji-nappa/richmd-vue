@@ -1,7 +1,6 @@
 <template>
     <div 
       v-html="compiledMarkdown"
-      :text="text"
     />
 </template>
 <script>
@@ -26,7 +25,7 @@ export default {
   },
   data() {
     return {
-      markdownText: ''
+      markdownText: this.text
     }
   },
   computed: {
