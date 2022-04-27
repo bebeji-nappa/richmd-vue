@@ -1,6 +1,6 @@
 {
   "name": "richmd-vue",
-  "version": "0.1.0",
+  "version": "0.0.1",
   "description": "Use Richmd for Vue.",
   "packageManager": "yarn@3.2.0",
   "main": "src/Richmd.vue",
