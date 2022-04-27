@@ -1,6 +1,7 @@
 {
   "name": "richmd-vue",
   "packageManager": "yarn@3.2.0",
+  "main": "src/Richmd.vue",
   "dependencies": {
     "richmd": "^2.2.7",
     "vue": "next"

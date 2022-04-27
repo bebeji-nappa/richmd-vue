@@ -37,5 +37,5 @@ export default {
 }
 </script>
 <style>
-@import 'richmd/richmd.css';
+@import './node_modules/richmd/richmd.css';
 </style>
