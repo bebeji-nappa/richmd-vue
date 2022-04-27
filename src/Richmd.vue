@@ -6,7 +6,6 @@
 </template>
 <script>
 import { richmd } from 'richmd'
-import 'richmd/richmd.css'
 
 export default {
   name: "Richmd",
@@ -37,3 +36,6 @@ export default {
   },
 }
 </script>
+<style>
+@import 'richmd/richmd.css';
+</style>
