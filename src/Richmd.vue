@@ -33,6 +33,3 @@ export default {
   },
 }
 </script>
-<style>
-@import './node_modules/richmd/richmd.css';
-</style>
