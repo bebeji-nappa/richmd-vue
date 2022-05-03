@@ -1,9 +1,28 @@
 {
   "name": "richmd-vue",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Use Richmd for Vue.",
   "packageManager": "yarn@3.2.0",
   "main": "src/Richmd.vue",
+  "keywords": [
+    "Richmd",
+    "markdown",
+    "frontend",
+    "webpack",
+    "richmd",
+    "math",
+    "html"
+  ],
+  "author": "nappa <masa.yanagawa721@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bebeji-nappa/richmd-vue.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bebeji-nappa/richmd-vue.git/issues"
+  },
+  "homepage": "https://github.com/bebeji-nappa/richmd-vue.git/",
+  "license": "MIT",
   "dependencies": {
     "richmd": "^2.2.7",
     "vue": "next"
