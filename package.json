@@ -1,6 +1,6 @@
 {
   "name": "richmd-vue",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Use Richmd for Vue.",
   "packageManager": "yarn@3.2.0",
   "main": "src/Richmd.vue",
@@ -11,7 +11,8 @@
     "webpack",
     "richmd",
     "math",
-    "html"
+    "html",
+    "vue"
   ],
   "author": "nappa <masa.yanagawa721@gmail.com>",
   "repository": {
